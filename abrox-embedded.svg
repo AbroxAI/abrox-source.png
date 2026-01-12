@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
      viewBox="0 0 1024 1024" width="1024" height="1024" preserveAspectRatio="xMidYMid meet">
-  <!-- Replace the filename below if your PNG has a different name -->
-  <image href="abrox-source.png" x="0" y="0" width="1024" height="1024" preserveAspectRatio="xMidYMid meet" />
+  <!-- Use the exact filename your phone saved: abrox-source.jpg -->
+  <image href="abrox-source.jpg" x="0" y="0" width="1024" height="1024" preserveAspectRatio="xMidYMid meet" />
 </svg>
